@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test1</string>
+    <string name="title">ميم اب</string>
+    <string name="say">اسمي :</string>
+    <string name="myName">ايمان ايمن</string>
+    <string name="titleJob">مبرمجه اندوريد </string>
+</resources>
